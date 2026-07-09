@@ -96,7 +96,7 @@ Experience in MIS, operations analytics, and market research
 
 ## How to View
 
-Open `https://shravannaarm23-dev.github.io/upcykal/` in your browser
+Open https://shravannaarm23-dev.github.io/upcykal/ in your browser
 
 ---
 
